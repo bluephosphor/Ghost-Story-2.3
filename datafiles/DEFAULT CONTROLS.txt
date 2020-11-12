@@ -1,0 +1,52 @@
+====KEYBOARD====
+
+****MENU***
+[Arrow Keys] - Move
+[Enter] - Select
+
+****OVERWORLD****
+[Arrow Keys] - Move
+[Space Bar] - Interact
+[Z] - Teleport
+[X] - Use Held Item
+[S] - Enemy Focus
+[A] - Grab Item (Hold to drag item to inventory)
+[D] - Drop Item
+[C] - Dodge
+[F] - Partner Ability
+
+****INVENTORY***
+[Arrow Keys] - Move
+[Z] - Select Item
+[X] - Place Item
+[A] - Equip/Use Item
+[C] - Drop Item
+
+
+====GAMEPAD====
+
+****MENU***
+[Left Stick] - Move
+[A] - Select
+
+****OVERWORLD****
+[Left Stick] - Move
+[A] - Interact
+[L2] - Teleport
+[X] - Use Held Item
+[R2] - Enemy Focus
+[Y] - Grab Item (Hold to drag item to inventory)
+[B] - Drop Item
+[L1] - Dodge
+[R1] - Partner Ability
+
+****INVENTORY***
+[Left Stick] - Move
+[X] - Select Item
+[A] - Place Item
+[Y] - Equip/Use Item
+[B] - Drop Item
+
+
+
+

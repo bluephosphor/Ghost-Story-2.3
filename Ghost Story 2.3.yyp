@@ -191,7 +191,6 @@
     {"id":{"name":"shader_outline","path":"shaders/shader_outline/shader_outline.yy",},"order":0,},
     {"id":{"name":"shader_outline1","path":"shaders/shader_outline1/shader_outline1.yy",},"order":1,},
     {"id":{"name":"shader_inv_color","path":"shaders/shader_inv_color/shader_inv_color.yy",},"order":2,},
-    {"id":{"name":"obj_tp_marker","path":"objects/obj_tp_marker/obj_tp_marker.yy",},"order":4,},
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":0,},
     {"id":{"name":"fnt_smalldialog","path":"fonts/fnt_smalldialog/fnt_smalldialog.yy",},"order":1,},
     {"id":{"name":"fnt_smalldigit","path":"fonts/fnt_smalldigit/fnt_smalldigit.yy",},"order":2,},
@@ -210,9 +209,9 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
-    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -250,16 +249,16 @@
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_music","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
-    {"isScaled":true,"autocrop":false,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"outline","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":false,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"outline","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"DEFAULT CONTROLS.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.536",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "Ghost Story 2.3",
   "tags": [],
   "resourceType": "GMProject",

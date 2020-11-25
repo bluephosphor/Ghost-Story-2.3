@@ -4,7 +4,14 @@ type = entity.player;
 state = playerstate_normal;
 max_sp = 3;
 accel = 0.7;
-frict = 0.1;
+frict = 0.2;
+
+hands = {
+	x: 0,
+	y: 0,
+	holding: 0,
+	state: 0
+}
 
 tp_marker = {
 	active: false,

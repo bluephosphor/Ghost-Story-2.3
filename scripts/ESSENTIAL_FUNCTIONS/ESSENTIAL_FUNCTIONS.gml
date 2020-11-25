@@ -58,3 +58,7 @@ function approach(a, b, amount){
 	}
 	return a;
 }
+
+function animate_sprite(){
+	
+}
